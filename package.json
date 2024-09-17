@@ -54,7 +54,7 @@
     "storybook": "^8.0.9",
     "stylus": "^0.63.0",
     "validator": "^13.11.0",
-    "vite": "^5.1.6",
+    "vite": "^5.4.6",
     "vite-plugin-svgo": "^1.4.0",
     "vitest": "^1.4.0",
     "vue-eslint-parser": "^9.4.2"
